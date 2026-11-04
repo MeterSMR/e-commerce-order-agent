@@ -22,15 +22,20 @@
 
 本期不包含实时全网搜索与比价、下单支付、订单管理和售后、跨品类导购、多 Agent 协作、用户长期记忆及复杂个性化推荐。
 
+## 核心文档导览
+
+| 文档 | 核心问题 | 重点 |
+| --- | --- | --- |
+| [01 Project Brief](docs/01_Project_Brief.md) | Why：为什么做？ | 产品价值、Agent必要性、MVP目标 |
+| **[02 PRD](docs/02_PRD.md)** | **What：产品应该做什么？** | **用户场景、功能需求、Agent对外行为、交互规则** |
+| [03 Agent Harness](docs/03_Agent_Harness.md) | How：Agent如何实现？ | 状态管理、动态规划、行动选择、执行循环 |
+| [04 Data & Tools](docs/04_Data_Tools.md) | With What：依赖什么？ | 商品数据、适配依据、工具契约 |
+| [05 Evaluation](docs/05_Evaluation.md) | How Well：效果怎么样？ | AI效果评测、可靠性、决策合理性、执行效率 |
+
 ## 目录导航
 
 | 路径 | 用途 |
 | --- | --- |
-| [docs/01_Project_Brief.md](docs/01_Project_Brief.md) | 产品定位、Agent 价值、MVP 边界与成功标准 |
-| [docs/02_PRD.md](docs/02_PRD.md) | 用户场景、产品行为、功能需求与验收条件 |
-| [docs/03_Agent_Harness.md](docs/03_Agent_Harness.md) | 状态、行动选择、执行循环与约束 |
-| [docs/04_Data_Tools.md](docs/04_Data_Tools.md) | 商品数据、适配依据与工具契约 |
-| [docs/05_Evaluation.md](docs/05_Evaluation.md) | 任务质量、推荐可靠性、决策质量与执行效率评测 |
 | [docs/06_Development_Plan.md](docs/06_Development_Plan.md) | 分阶段研发交付与验证安排 |
 | [AGENTS.md](AGENTS.md) | 仓库研发协作规范 |
 | src/app/ | 页面与 API |
