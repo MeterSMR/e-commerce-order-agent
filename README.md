@@ -1,38 +1,56 @@
 # 笔记本电脑 AI 导购 Agent
 
-通过产品设计、Agent Harness 设计、AI Coding 和评估验证，逐步实现可运行的 MVP。
+面向消费电子电商购买前选购决策，帮助用户通过自然语言表达需求，在已接入的商品目录与用途适配依据范围内，获得可信候选并理解不同方案的取舍。
 
-> 当前状态：项目目录与文档模板已初始化，尚未实现可运行 Demo。文档中的待办和建议参数需要在开发前确认。
+> 当前状态：Project Brief v1.1 已完成内容编写，文档仍标记为“产品定义待评审”；PRD、Agent Harness、数据工具和评测文档仍为模板或设计草案。仓库已初始化目录，尚未实现可运行 Demo，也没有实测结果。
 
-## 项目目标
+## 产品目标与核心能力
 
-在有限商品目录和用途适配依据上，让单 Agent 根据当前信息选择澄清、检索、核验或推荐行动。程序强制校验硬条件与证据，避免无依据推荐。
+优先服务于知道自身用途和大致预算、但缺乏硬件知识且尚未确定型号的消费者。V1.0 拟建立三项能力：
+
+| 能力 | 用户价值 |
+| --- | --- |
+| 动态需求澄清 | 识别影响选购判断的信息缺口，在必要时提问，减少重复或无效澄清 |
+| 基于证据的推荐 | 结合具体商品事实和用途适配依据，说明推荐理由、使用限制与未知信息 |
+| 连续选购决策 | 支持追问、候选比较和条件调整，重新验证受影响的结论，复用仍有效的信息 |
+
+采用受约束的单 Agent 方案：LLM 根据当前需求与中间结果选择行动；工具获取商品事实与适配依据；确定性规则负责硬条件过滤、可规则化的适配检查和最终输出校验。信息不足时允许说明限制或停止，不强行推荐。
+
+## V1.0 范围
+
+使用预先整理、来源可追溯的笔记本电脑商品目录和用途适配依据。价格、库存等信息应标明来源与更新时间，模拟或非实时数据不得表述为实时信息。
+
+本期不包含实时全网搜索与比价、下单支付、订单管理和售后、跨品类导购、多 Agent 协作、用户长期记忆及复杂个性化推荐。
 
 ## 目录导航
 
 | 路径 | 用途 |
 | --- | --- |
-| [docs/01_Project_Brief.md](docs/01_Project_Brief.md) | 定位、用户问题与 MVP 边界 |
-| [docs/02_PRD.md](docs/02_PRD.md) | 功能需求与用户交互 |
-| [docs/03_Agent_Harness.md](docs/03_Agent_Harness.md) | 状态、行动、循环与约束 |
-| [docs/04_Data_Tools.md](docs/04_Data_Tools.md) | 数据与工具输入输出 |
-| [docs/05_Evaluation.md](docs/05_Evaluation.md) | 测试场景与验收标准 |
-| [docs/06_Development_Plan.md](docs/06_Development_Plan.md) | AI Coding 分阶段任务 |
+| [docs/01_Project_Brief.md](docs/01_Project_Brief.md) | 产品定位、Agent 价值、MVP 边界与成功标准 |
+| [docs/02_PRD.md](docs/02_PRD.md) | 用户场景、产品行为、功能需求与验收条件 |
+| [docs/03_Agent_Harness.md](docs/03_Agent_Harness.md) | 状态、行动选择、执行循环与约束 |
+| [docs/04_Data_Tools.md](docs/04_Data_Tools.md) | 商品数据、适配依据与工具契约 |
+| [docs/05_Evaluation.md](docs/05_Evaluation.md) | 任务质量、推荐可靠性、决策质量与执行效率评测 |
+| [docs/06_Development_Plan.md](docs/06_Development_Plan.md) | 分阶段研发交付与验证安排 |
+| [AGENTS.md](AGENTS.md) | 仓库研发协作规范 |
 | src/app/ | 页面与 API |
 | src/components/ | 聊天、条件、商品卡片等组件 |
-| src/agent/ | Prompt、执行循环、状态与工具注册 |
+| src/agent/ | 产品 Agent 的 Prompt、执行循环、状态与工具注册 |
 | src/tools/ | 商品检索、详情读取与证据检索 |
 | src/rules/ | 硬条件、用途适配和输出校验 |
 | src/lib/ | 数据访问和通用能力 |
 | data/ | 商品目录与适配规则 |
 | tests/ | 规则测试与 Agent 场景测试 |
-| evidence/ | 执行轨迹、开发记录与演示证据 |
+| evidence/ | 执行轨迹、研发记录、评测结果与演示证据 |
 
-## 开发起点
+以上代码与数据目录目前为占位，具体能力尚待实现。
 
-1. 完善项目定位、Harness、数据工具与验收文档。
-2. 按开发计划搭建 UI，再实现确定性规则，最后接入真实模型。
-3. 每个阶段记录修改、验证结果及未解决问题。
+## 当前工作顺序
+
+1. 基于 Project Brief 完成 PRD，明确用户场景、产品行为和验收条件。
+2. 以 PRD 为输入，完善 Agent Harness、数据与工具、评测方案，统一需求、机制与验收口径。
+3. 按开发计划分阶段实现并验证，每个阶段记录实际结果和未解决问题。
+4. 文档逐步完成后，同步更新 README、研发规范和关联设计；草案中的建议参数不作为已确认规格。
 
 拟采用 Next.js + TypeScript；具体依赖和 Agent 框架版本在实现阶段验证并锁定。目前没有 package.json 或启动命令，不能执行 npm run dev。
 
@@ -43,5 +61,5 @@
 ## 演示与结果
 
 - Demo 地址：待开发后补充。
-- 测试结果：待实际执行后记录。
-- AI Coding 记录：见 evidence/ai-coding/。
+- 测试结果：待实际执行后记录，见 [evidence/](evidence/)。
+- 研发记录：见 [evidence/development-log.md](evidence/development-log.md) 和 [任务记录模板](evidence/development/TEMPLATE.md)。
