@@ -1,0 +1,304 @@
+﻿rank,passmark_gpu_id,gpu_name,g3d_mark,source_rank,reference_type,role,catalog_gpu_model,catalog_sku_count,detail_url,note,source_url
+1,,GeForce RTX 5090 D,42476,1,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+2,,GeForce RTX 5090,39035,2,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+3,,GeForce RTX 4090,38012,3,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+4,,GeForce RTX 5080,35652,5,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+5,,GeForce RTX 5090 D v2,35553,6,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+6,,GeForce RTX 4080,34443,8,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+7,,GeForce RTX 4080 SUPER,34215,9,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+8,,GeForce RTX 5070 Ti,32329,14,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+9,,GeForce RTX 4070 Ti SUPER,31845,17,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+10,,GeForce RTX 4070 Ti,31516,18,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+11,,Radeon RX 7900 XTX,31469,19,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+12,,GeForce RTX 4090 D,30848,21,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+13,,GeForce RTX 4070 SUPER,29939,22,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+14,,GeForce RTX 3090 Ti,29176,24,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+15,,Radeon RX 7900 XT,29129,25,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+16,,GeForce RTX 5070,28684,26,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+17,,GeForce RTX 5090 Laptop GPU,28426,28,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+18,,Radeon RX 6950 XT,28082,30,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+19,,Radeon RX 7900 GRE,27455,34,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+20,,GeForce RTX 4090 Laptop GPU,27026,38,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+21,,Radeon RX 9070 XT,26930,39,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+22,,GeForce RTX 4070,26850,40,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+23,,GeForce RTX 3080 Ti,26719,41,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+24,,Radeon RX 6900 XT,26633,42,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+25,,GeForce RTX 3080 12GB,26553,43,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+26,,GeForce RTX 3090,26456,45,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+27,6099,GeForce RTX 5080 Laptop GPU,26368,46,laptop_dgpu,catalog,NVIDIA GeForce RTX 5080 Laptop GPU,1,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5080+Laptop+GPU&id=6099,,https://www.videocardbenchmark.net/gpu_list.php
+28,,Radeon RX 9070,25376,49,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+29,,Radeon RX 6800 XT,25120,50,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+30,,GeForce RTX 3080,24965,53,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+31,,GeForce RTX 4080 Laptop GPU,24741,55,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+32,,Radeon RX 7800 XT,24482,56,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+33,,Radeon RX 9070 GRE,23218,63,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+34,,GeForce RTX 3070 Ti,23153,64,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+35,,Radeon RX 7700 XT,22790,71,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+36,,GeForce RTX 5060 Ti 16GB,22635,72,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+37,,GeForce RTX 4060 Ti,22596,74,desktop_dgpu,mainstream_reference,,,,来源另列 16 GB 条目。,https://www.videocardbenchmark.net/gpu_list.php
+38,6216,GeForce RTX 5070 Ti Laptop GPU,22549,75,laptop_dgpu,catalog,NVIDIA GeForce RTX 5070 Ti Laptop GPU,2,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5070+Ti+Laptop+GPU&id=6216,,https://www.videocardbenchmark.net/gpu_list.php
+39,,GeForce RTX 4060 Ti 16GB,22522,76,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+40,,Radeon RX 7900M,22238,77,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+41,,GeForce RTX 3070,22059,78,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+42,,Radeon RX 6800,22046,79,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+43,,GeForce RTX 5060 Ti 8GB,21755,81,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+44,,GeForce RTX 2080 Ti,21396,84,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+45,,Radeon RX 6750 XT,20707,87,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+46,,GeForce RTX 5060,20580,90,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+47,,Radeon RX 9060 XT LP,20549,91,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+48,,Radeon RX 6750 GRE 12GB,20410,92,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+49,,Radeon 8065S,20390,93,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+50,,Radeon RX 7700,20385,95,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+51,,GeForce RTX 3060 Ti,20205,96,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+52,,Radeon RX 9060 XT 16GB,20145,98,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+53,,Radeon RX 9060 XT 8GB,19730,101,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+54,,Radeon RX 6700 XT,19711,102,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+55,,GeForce RTX 4060,19477,104,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+56,,GeForce RTX 4070 Laptop GPU,19462,105,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+57,4123,GeForce RTX 2080 SUPER,19387,106,desktop_dgpu,mainstream_reference,,,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2080+SUPER&id=4123,,https://www.videocardbenchmark.net/gpu_list.php
+58,6260,GeForce RTX 5070 Laptop GPU,19167,110,laptop_dgpu,catalog,NVIDIA GeForce RTX 5070 Laptop GPU,3,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5070+Laptop+GPU&id=6260,,https://www.videocardbenchmark.net/gpu_list.php
+59,,Radeon RX 6750 GRE 10GB,18944,111,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+60,,Radeon RX 6700,18838,112,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+61,,GeForce RTX 3080 Ti Laptop GPU,18777,113,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+62,,GeForce GTX 1080 Ti,18597,117,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+63,,GeForce RTX 2080,18561,118,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+64,4116,GeForce RTX 2070 SUPER,18120,121,desktop_dgpu,mainstream_reference,,,https://www.videocardbenchmark.net/gpu.php?cpu=GeForce+RTX+2070+SUPER&id=4116,,https://www.videocardbenchmark.net/gpu_list.php
+65,,Radeon 8060S,18057,122,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+66,,Radeon RX 7650 GRE,17895,123,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+67,,Radeon RX 9060,17655,126,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+68,,Radeon RX 7800M,17606,127,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+69,,Radeon RX 6850M XT,17517,129,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+70,,Radeon RX 7600 XT,17369,130,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+71,4752,GeForce RTX 4060 Laptop GPU,17302,131,laptop_dgpu,catalog,NVIDIA GeForce RTX 4060 Laptop GPU,1,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4060+Laptop+GPU&id=4752,,https://www.videocardbenchmark.net/gpu_list.php
+72,,GeForce RTX 3070 Ti Laptop GPU,17235,132,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+73,,Radeon RX 6650 XT,17087,135,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+74,,GeForce RTX 3060,16872,139,desktop_dgpu,mainstream_reference,,,,来源另列 8 GB、12 GB 和 Laptop GPU 条目，保留每个来源条目。,https://www.videocardbenchmark.net/gpu_list.php
+75,6330,GeForce RTX 5060 Laptop GPU,16796,140,laptop_dgpu,catalog,NVIDIA GeForce RTX 5060 Laptop GPU,6,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5060+Laptop+GPU&id=6330,,https://www.videocardbenchmark.net/gpu_list.php
+76,,GeForce RTX 3060 12GB,16694,143,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+77,,GeForce RTX 5050,16688,144,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+78,,Radeon RX 5700 XT 50th Anniversary,16552,146,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+79,,Radeon 8050S,16476,147,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+80,,GeForce RTX 2060 SUPER,16447,149,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+81,,Radeon RX 6600 XT,16447,150,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+82,,Radeon RX 7600,16430,152,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+83,,Radeon VII,16177,155,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+84,,Intel Arc B580,16097,156,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+85,,Radeon RX 6650M XT,16081,157,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+86,,GeForce RTX 2070,16056,159,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+87,,GeForce RTX 3080 Laptop GPU,16016,160,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+88,,Radeon RX 5700 XT,16015,161,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+89,,GeForce RTX 2060 12GB,15912,162,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+90,,Radeon RX 7600S,15642,164,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+91,3502,GeForce GTX 1080,15608,166,desktop_dgpu,mainstream_reference,,,https://www.videocardbenchmark.net/gpu.php?gpu=Ge+Force+GTX+1080&id=3502,,https://www.videocardbenchmark.net/gpu_list.php
+92,,Radeon RX 6800S,15597,167,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+93,,Radeon RX 7700S,15511,168,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+94,,GeForce RTX 3060 8GB,15238,171,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+95,,Radeon RX 6650M,15235,172,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+96,,Radeon RX 6600,15030,175,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+97,,GeForce RTX 2080 (Mobile),15013,177,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+98,,GeForce RTX 3070 Laptop GPU,14997,178,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+99,,Radeon RX 7600M XT,14943,180,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+100,,Radeon RX 6700S,14917,182,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+101,,GeForce GTX 1070 Ti,14678,188,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+102,,Intel Arc B570,14220,192,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+103,,GeForce RTX 4050 Laptop GPU,14192,193,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+104,,Radeon RX 5700,14187,194,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+105,,GeForce RTX 2060,14068,199,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+106,,GeForce RTX 5050 Laptop GPU,13948,200,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+107,,Radeon RX 6600 LE,13899,202,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+108,,Radeon RX Vega 64,13827,203,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+109,,Radeon RX 6600M,13757,204,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+110,,Radeon RX 6700M,13664,207,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+111,,GeForce GTX 980 Ti,13601,211,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+112,,Radeon RX 6600S,13569,214,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+113,,GeForce GTX 1070,13510,216,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+114,,GeForce RTX 2080 Super with Max-Q Design,13403,218,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+115,4605,Intel Arc A770,13383,220,desktop_dgpu,mainstream_reference,,,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Arc+A770&id=4605,来源按型号汇总，支持的显存版本需结合原厂规格核对。,https://www.videocardbenchmark.net/gpu_list.php
+116,,Radeon RX 5600 XT,13374,221,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+117,,Radeon RX 6800M,13310,223,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+118,,GeForce RTX 2070 Super with Max-Q Design,13102,227,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+119,,GeForce RTX 3060 Laptop GPU,13090,228,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+120,,Radeon RX Vega 56,12912,230,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+121,,GeForce GTX 1660 SUPER,12653,238,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+122,,Intel Arc A750,12617,239,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+123,,GeForce GTX 1660 Ti,12539,243,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+124,4495,GeForce RTX 3050 8GB,12450,247,desktop_dgpu,mainstream_reference,,,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3050&id=4495,,https://www.videocardbenchmark.net/gpu_list.php
+125,,GeForce RTX 2080 with Max-Q Design,12405,249,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+126,,GeForce RTX 2070 (Mobile),12357,250,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+127,,Radeon RX 5600 OEM,12309,252,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+128,,Intel Arc A580,12060,255,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+129,,Intel Arc A770M,11931,260,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+130,,Radeon RX 9050,11918,261,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+131,,Radeon RX 7400,11896,263,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+132,,GeForce RTX 3050 OEM,11864,265,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+133,,GeForce GTX 1080 with Max-Q Design,11858,266,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+134,,GeForce RTX 3050 Laptop GPU,11718,267,laptop_dgpu,mainstream_reference,,,,来源另列 4 GB 和 6 GB 的同款移动显卡条目。,https://www.videocardbenchmark.net/gpu_list.php
+135,4062,GeForce GTX 1660,11612,272,desktop_dgpu,game_requirement,,,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1660&id=4062,与 SUPER、Ti 分开。,https://www.videocardbenchmark.net/gpu_list.php
+136,,Radeon RX 5600,11594,274,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+137,,GeForce RTX 2070 with Max-Q Design,11406,278,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+138,,GeForce RTX 2060 (Mobile),11352,280,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+139,,GeForce GTX 980,11071,286,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+140,,Radeon RX 7600M,10937,288,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+141,,GeForce RTX 3050 6GB,10737,290,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+142,,GeForce RTX 3050 A Laptop GPU,10724,291,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+143,,Radeon 8040S,10578,294,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+144,,GeForce GTX 1070 (Mobile),10465,295,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+145,,GeForce GTX 1650 SUPER,10188,299,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+146,,GeForce RTX 3050 6GB Laptop GPU,10128,301,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+147,,GeForce GTX 1660 Ti (Mobile),10075,302,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+148,,GeForce RTX 3050 Ti Laptop GPU,10060,303,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+149,3548,GeForce GTX 1060,10009,304,desktop_dgpu,game_requirement,,,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060&id=3548,详情页显存上限为 6 GB，同时列出 Mobile 别名。3 GB、5 GB、Mobile 有其他榜单条目。,https://www.videocardbenchmark.net/gpu_list.php
+150,,GeForce GTX 1060 3GB,9858,306,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+151,,Intel Arc A730M,9808,308,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+152,,GeForce GTX 1070 with Max-Q Design,9769,310,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+153,,Radeon RX 6550M,9673,315,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+154,,GeForce GTX 970,9635,316,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+155,,Radeon RX 6500 XT,9619,317,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+156,,GeForce RTX 2060 with Max-Q Design,9587,318,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+157,,GeForce RTX 3050 4GB Laptop GPU,9499,320,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+158,,Radeon RX 590,9272,329,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+159,,GeForce GTX 1060 5GB,9245,330,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+160,,Radeon RX 5500 XT,9038,340,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+161,,Intel Arc B390 GPU,9011,343,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+162,,Radeon RX 5600M,8828,347,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+163,,Radeon RX 5500,8812,349,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+164,3736,Radeon RX 580,8780,350,desktop_dgpu,game_requirement,,,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+580&id=3736,详情页显存上限为 8 GB，榜单分数未按显存拆分。2048SP 有独立条目。,https://www.videocardbenchmark.net/gpu_list.php
+165,,GeForce GTX 1660 Ti with Max-Q Design,8589,353,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+166,,Radeon RX 480,8524,355,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+167,,Intel Arc B370 GPU,8501,356,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+168,,GeForce GTX 1060 (Mobile),8160,365,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+169,5113,Radeon 890M,8053,369,integrated,mainstream_reference,,,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+890M&id=5113,,https://www.videocardbenchmark.net/gpu_list.php
+170,,Intel Arc A530M,8010,371,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+171,3558,Radeon RX 470/570,7903,375,desktop_dgpu,mainstream_reference,,,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+470&id=3558,来源将 RX 470 和 RX 570 合并统计，按原条目保留。,https://www.videocardbenchmark.net/gpu_list.php
+172,,GeForce GTX 1650,7861,378,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+173,8478,Qualcomm Adreno X2-90 GPU,7795,381,integrated,mainstream_reference,,,https://www.videocardbenchmark.net/gpu.php?gpu=Qualcomm+Adreno+X2-90+GPU&id=8478,,https://www.videocardbenchmark.net/gpu_list.php
+174,,GeForce GTX 1060 with Max-Q Design,7758,382,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+175,,Radeon RX 6400,7755,383,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+176,4501,GeForce RTX 2050,7733,385,laptop_dgpu,mainstream_reference,,,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2050&id=4501,,https://www.videocardbenchmark.net/gpu_list.php
+177,,Radeon RX 6500,7703,386,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+178,,Radeon RX 580 2048SP,7609,393,desktop_dgpu,mainstream_reference,,,,保留 2048SP 标记，用于区分 Radeon RX 580。,https://www.videocardbenchmark.net/gpu_list.php
+179,,Radeon RX 5300,7602,394,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+180,,Radeon 880M,7588,395,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+181,4195,GeForce GTX 1650 Ti,7545,396,laptop_dgpu,mainstream_reference,,,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce%2BGTX%2B1650%2BTi&id=4195,,https://www.videocardbenchmark.net/gpu_list.php
+182,4055,Radeon RX 580X,7426,399,desktop_dgpu,mainstream_reference,,,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+580X&id=4055,,https://www.videocardbenchmark.net/gpu_list.php
+183,,GeForce GTX 980M,7395,400,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+184,,Radeon RX 6500M,7279,403,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+185,,GeForce GTX 1650 (Mobile),6968,414,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+186,,Radeon 780M,6712,421,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+187,,GeForce GTX 1650 Ti with Max-Q Design,6622,428,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+188,,Radeon RX 6450M,6601,429,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+189,,Intel Arc 140T GPU,6574,432,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+190,,GeForce GTX 1650 with Max-Q Design,6383,443,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+191,3595,GeForce GTX 1050 Ti,6368,444,desktop_dgpu,game_requirement,,,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1050+Ti&id=3595,与 Mobile、Max-Q 分开。,https://www.videocardbenchmark.net/gpu_list.php
+192,,Intel Arc A380,6339,446,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+193,,GeForce MX570 A,6225,452,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+194,,GeForce GTX 960,6150,454,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+195,,Radeon RX 5500M,6077,463,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+196,5871,Intel Arc 130T GPU,6046,466,integrated,mainstream_reference,,,https://www.videocardbenchmark.net/video_lookup.php?gpu=Intel+Arc+130T+GPU&id=5871,,https://www.videocardbenchmark.net/gpu_list.php
+197,,GeForce GTX 1050 Ti (Mobile),5917,473,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+198,,GeForce MX570,5735,483,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+199,,GeForce GTX 970M,5716,484,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+200,8975,Qualcomm Adreno X2-85 GPU,5625,490,integrated,mainstream_reference,,,https://www.videocardbenchmark.net/gpu.php?gpu=Qualcomm+Adreno+X2-85+GPU&id=8975,,https://www.videocardbenchmark.net/gpu_list.php
+201,4879,Intel Arc A310,5462,509,desktop_dgpu,game_requirement,,,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Arc+A310&id=4879,与 A310 LP 分开。,https://www.videocardbenchmark.net/gpu_list.php
+202,,Radeon RX 6300,5405,510,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+203,,Radeon RX 5300M,5396,511,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+204,,Radeon RX 6300M,5363,513,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+205,,GeForce GTX 950,5353,516,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+206,,GeForce GTX 1050 Ti with Max-Q Design,5311,517,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+207,,Radeon 760M,5280,525,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+208,5176,Intel Arc 140V GPU,5150,534,integrated,mainstream_reference,,,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Arc+140V+GPU&id=5176,,https://www.videocardbenchmark.net/gpu_list.php
+209,,GeForce GTX 1050 3GB,5119,539,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+210,,Intel Arc A370M,5115,541,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+211,3596,GeForce GTX 1050,5056,546,desktop_dgpu,game_requirement,,,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1050&id=3596,游戏规则写 GTX 1050。榜单另列 3 GB、Mobile、Max-Q 版本。,https://www.videocardbenchmark.net/gpu_list.php
+212,,GeForce GTX 1630,4967,554,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+213,,Radeon 860M,4876,559,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+214,,Intel Arc A310 LP,4871,560,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+215,,Intel Arc 130V GPU,4521,595,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+216,3471,Radeon R7 370,4478,598,desktop_dgpu,game_requirement,,,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+370&id=3471,,https://www.videocardbenchmark.net/gpu_list.php
+217,,GeForce GTX 1050 (Mobile),4462,599,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+218,,GeForce MX550,4318,616,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+219,,Radeon RX 460,4097,628,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+220,,Radeon 680M,3932,646,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+221,2815,GeForce GTX 750 Ti,3900,653,desktop_dgpu,game_requirement,,,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+750+Ti&id=2815,详情页列有 Mobile 别名，榜单分数未按整机区分。,https://www.videocardbenchmark.net/gpu_list.php
+222,,GeForce GTX 1050 with Max-Q Design,3893,654,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+223,,GeForce MX450,3712,676,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+224,,Radeon RX 560,3690,682,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+225,3955,Radeon RX 560X,3650,685,desktop_dgpu,mainstream_reference,,,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+560X&id=3955,,https://www.videocardbenchmark.net/gpu_list.php
+226,,Radeon 840M,3626,686,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+227,,Qualcomm Adreno X2-45 GPU,3439,707,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+228,,GeForce GTX 960M,3371,712,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+229,,GeForce GTX 750,3279,726,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+230,,Intel Graphics,3276,728,integrated,mainstream_reference,,,,来源名称较宽泛，具体核显型号需核对处理器和整机资料。,https://www.videocardbenchmark.net/gpu_list.php
+231,,Radeon 660M,3196,742,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+232,,Qualcomm Adreno X1-85 GPU,3079,761,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+233,,Radeon 740M,2928,782,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+234,,GeForce MX350,2815,797,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+235,,Radeon RX 550,2699,819,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+236,4265,Intel Iris Xe,2584,843,integrated,game_requirement,,,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Iris+Xe&id=4265,按来源泛称记录，未区分核显版本。,https://www.videocardbenchmark.net/gpu_list.php
+237,,GeForce GTX 950M,2582,844,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+238,,Radeon Ryzen 7 5825U,2396,877,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+239,,GeForce GT 1030,2392,878,desktop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+240,,GeForce MX250,2370,885,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+241,4069,Radeon RX 550X,2329,898,desktop_dgpu,mainstream_reference,,,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+550X&id=4069,,https://www.videocardbenchmark.net/gpu_list.php
+242,,GeForce MX330,2324,899,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+243,,Radeon RX Vega Ryzen 5 5500U,2319,900,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+244,4168,Radeon RX 640,2275,916,desktop_or_mobile_dgpu,catalog,AMD Radeon RX 640,1,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+640&id=4168,来源同时列为桌面和移动平台，分数只能描述该来源条目。,https://www.videocardbenchmark.net/gpu_list.php
+245,,GeForce MX150,2246,927,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+246,,Radeon 820M,2211,933,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+247,,Radeon Ryzen 7 5700U,2190,942,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+248,,Radeon Ryzen 7 7730U,2188,943,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+249,3854,Radeon RX 540,2153,949,desktop_dgpu,mainstream_reference,,,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+540&id=3854,,https://www.videocardbenchmark.net/gpu_list.php
+250,,Radeon Ryzen 5 7530U,2114,963,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+251,,Radeon RX Vega 11,2081,974,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+252,,Radeon Ryzen 5 5600U,2048,983,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+253,,Radeon Ryzen 5 5625U,1977,1009,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+254,4179,Radeon RX 570X,1923,1025,desktop_dgpu,mainstream_reference,,,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+570X&id=4179,,https://www.videocardbenchmark.net/gpu_list.php
+255,,Intel UHD Graphics 770,1907,1033,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+256,,Qualcomm Adreno X1-45 GPU,1901,1035,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+257,,Radeon Vega 11,1866,1050,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+258,,Radeon Vega 8 Ryzen 5 3550H,1839,1059,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+259,,GeForce MX230,1806,1073,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+260,,GeForce MX130,1792,1079,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+261,,Intel Iris Plus,1771,1086,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+262,,Intel Iris Xe MAX,1759,1089,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+263,,Intel Iris Plus 655,1721,1103,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+264,,Intel Iris Plus 645,1690,1116,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+265,,Intel UHD Graphics 750,1681,1117,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+266,,Radeon RX Vega 10,1624,1136,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+267,,Radeon 630,1619,1141,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+268,,Intel Iris Plus 650,1604,1151,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+269,,Radeon Vega 9,1592,1156,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+270,,Radeon Vega 8,1559,1170,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+271,,Intel UHD Graphics 730,1544,1178,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+272,,Intel UHD Graphics,1543,1181,integrated,mainstream_reference,,,,来源按泛称汇总，可识别的 UHD Graphics 子型号有独立条目。,https://www.videocardbenchmark.net/gpu_list.php
+273,,Radeon Vega 10 Mobile,1540,1183,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+274,,Radeon RX Vega 8,1532,1188,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+275,,Radeon RX Vega 6,1492,1197,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+276,,Radeon Vega 10,1475,1204,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+277,,Radeon Vega 8 Mobile,1433,1219,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+278,,GeForce MX110,1406,1227,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+279,,Intel Iris Plus 640,1360,1239,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+280,,Radeon Vega 8 Ryzen 5 3500U,1345,1243,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+281,,Radeon Vega 6,1307,1254,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+282,,Radeon 610M,1258,1273,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+283,,Intel UHD Graphics 630,1222,1289,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+284,,Intel HD 630,1110,1338,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+285,,Radeon Vega 3 Mobile,1052,1371,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+286,,Radeon 625,1052,1372,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+287,,Intel UHD Graphics 710,1044,1378,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+288,,Intel UHD Graphics 620,1038,1381,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+289,,Intel HD 530,984,1407,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+290,,Radeon 620,942,1434,laptop_dgpu,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+291,,Intel HD Graphics 620,916,1449,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+292,2713,Radeon R7 240,896,1466,desktop_dgpu,game_requirement,,,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+240&id=2713,与双显卡组合条目分开。,https://www.videocardbenchmark.net/gpu_list.php
+293,,Radeon Vega 3,890,1470,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+294,,Intel HD 520,858,1491,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+295,2906,GeForce GT 730,820,1523,desktop_dgpu,game_requirement,,,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+730&id=2906,来源为型号汇总，未按 DDR3、GDDR5 等版本拆分。,https://www.videocardbenchmark.net/gpu_list.php
+296,,Intel UHD Graphics 617,804,1536,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+297,,Intel UHD Graphics 615,713,1638,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+298,,Intel UHD Graphics 610,680,1667,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+299,,Intel HD 4600,631,1724,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+300,,Intel HD 510,618,1739,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+301,,Intel UHD Graphics 605,362,2040,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
+302,2,Intel HD 4000,339,2058,integrated,game_requirement,,,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+HD+4000&id=2,来源同时列为桌面和移动平台。,https://www.videocardbenchmark.net/gpu_list.php
+303,,Intel UHD Graphics 600,309,2095,integrated,mainstream_reference,,,,,https://www.videocardbenchmark.net/gpu_list.php
